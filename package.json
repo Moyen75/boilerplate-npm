@@ -2,6 +2,9 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Moyenul Islam",
 	"description": "This is a recap project",
+	"keywords": [
+		"freecodecamp"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
