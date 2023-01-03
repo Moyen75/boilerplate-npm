@@ -8,13 +8,13 @@
 	"license": "MIT",
 	"version": "1.2.0",
 	"dependencies": {
-		"@freecodecamp/example": "^1.1.0",
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"nodemon": "^2.0.20"
 	},
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js",
-		"build": "node server.js"
+		"dev": "nodemon server.js"
 	},
 	"repository": {
 		"type": "git",
